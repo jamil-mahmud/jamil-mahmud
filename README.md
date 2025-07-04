@@ -4,7 +4,6 @@
 
 <p align="center">
   <b>Product Manager | Product Ops & Growth</b> <br>
-  <a href="https://www.linkedin.com/in/xamil121/">LinkedIn</a> &nbsp;|&nbsp; <a href="mailto:jamil.m.official@gmail.com">Email</a>
 </p>
 
 ---
@@ -12,10 +11,10 @@
 ## 🚀 About Me
 
 ```yaml
-name: Jamil Mahmud
-role: Product Manager @ weDevs
-experience: 5+ years
-specialties:
+Name: Jamil Mahmud
+Role: Product Manager @ weDevs
+Experience: 5+ years
+Specialties:
   - Product Operations
   - Data Analysis
   - Product Growth
